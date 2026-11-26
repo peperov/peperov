@@ -41,7 +41,7 @@ Game design, gameplay programming, shaders and VFX.
 #### 🤖 Side projects and experiments
 
 - **Game-playing bot:** Lua mod ↔ Python via TCP and a Gymnasium environment, from a PPO policy to a state machine with a reflex layer
-- **Real-time camera visuals** (Python · OpenCV · GLSL, developed over several years): live video pipeline with shader effects (fire, water, clouds, edge detection), face and body tracking with MediaPipe, DeepDream with TensorFlow, audio-reactive effects, live control via MIDI controllers, streaming between multiple machines and output to LED walls, running on PCs and a Raspberry Pi
+- **Real-time camera visuals** (Python · OpenCV · GLSL, developed over several years): live video pipeline with shader effects (fire, water, clouds, edge detection), face and body tracking with MediaPipe, DeepDream with TensorFlow, audio-reactive effects, live control via MIDI controllers, streaming between multiple machines and output to LED walls, running on PCs and a Raspberry Pi. Set up as a volunteer at several festivals.
 - **Match statistics bot** with web dashboard (Elixir + Flutter)
 
 #### 🤝 Beyond code
